@@ -13,4 +13,4 @@ An exploration of several regression methods to predict the IMDb ratings Blockbu
 
 Code contained here is used within the course 'MGSC 661 Multivariate Statistical Analysis' of the MMA Program at McGill University.
 
-This project was done in collaboration with [Kelly Agnew](https://github.com/kelly-agnew), [Wang Jingyuan](https://github.com/anarlewang), [Aishwarya Choukekar](https://github.com/aishwaryachoukekar), Saad Tariq and Gayatri Krishnamoorthy
+This project was done in collaboration with [Kelly Agnew](https://github.com/kelly-agnew), [Wang Jingyuan](https://github.com/anarlewang), [Aishwarya Choukekar](https://github.com/aishwaryachoukekar), [Saad Tariq](https://github.com/saadtariq22) and [Gayatri Krishnamoorthy](https://github.com/Gayatrik9)
